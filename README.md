@@ -10,7 +10,7 @@ I'm excited to be a beginner in something new everyday. And though going from th
 ## Check Out My Projects
 
 ### Beginner Tkinter Python Projects
-[Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro)
+[Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
 [Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
 
 ## Data Science Projects

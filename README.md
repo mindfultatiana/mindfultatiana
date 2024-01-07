@@ -1,8 +1,7 @@
 <h1>Hi, I'm Tatiana! <br/><a href="https://www.linkedin.com/in/tatianamathis/">Marketing Professional, </a><a href="https://github.com/mindfultatiana/">Programmer</a>, and Data Analyst</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<b>Python</b>
-<br></br>
+Python<br></br>
   <a href="https://github.com/mindfultatiana/beginnerPython/"> Beginner Projects
 
 <h2> 🤳 Connect with me:</h2>

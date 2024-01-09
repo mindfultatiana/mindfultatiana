@@ -1,5 +1,5 @@
 # Data Driven Marketing Professional
-Hi, my name is Tatiana Mathis and I am a Marketer, Programmer, and Junior Data Scientist.
+Hi, my name is Tatiana Mathis and I am a Marketer, Programmer, and Data Analyst.
 I got my MBA in Marketing in 2019, which showed me consumer behavior, market research, statistics, and calculus with an emphasis on changes in the market. 
 I fell in love. I had worked as a marketer for several private sector business, a couple nonprofits, and spent years as a tech founder for Comm Geeks LLC a small web development firm. 
 

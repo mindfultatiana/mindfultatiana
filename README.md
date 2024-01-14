@@ -17,4 +17,4 @@ I'm excited to be a beginner in something new everyday. And though going from th
 Coming Soon...
 
 ## DevCard
-<a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/d7894a6e1263433db93a4d03fe28f5a4.png?r=exb" width="200" alt="Tatiana Mathis's Dev Card"/></a>
+<a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/d7894a6e1263433db93a4d03fe28f5a4.png?r=exb" width="300" alt="Tatiana Mathis's Dev Card"/></a>

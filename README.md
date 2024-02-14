@@ -9,12 +9,15 @@ I'm excited to be a beginner in something new everyday. And though going from th
 
 ## Check Out My Projects
 
+### Data Science Projects
+Coming Soon...
+
+### Web Development Projects
+[Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024)
+
 ### Beginner Tkinter Python Projects
 [Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
 [Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
-
-### Data Science Projects
-Coming Soon...
 
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/d7894a6e1263433db93a4d03fe28f5a4.png?r=exb" width="300" alt="Tatiana Mathis's Dev Card"/></a>

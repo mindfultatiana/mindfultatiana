@@ -15,7 +15,7 @@ Coming Soon...
 ### Web Development Projects
 [Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024)
 
-### Beginner Tkinter Python Projects
+### Python Projects
 [Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
 [Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
 

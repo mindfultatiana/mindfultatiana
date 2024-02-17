@@ -7,7 +7,7 @@ I wanted to keep up with my industry, learn more about machine learning, and mak
 Now here I am growing my knowledge and finally finding my purpose. I love research and building things that help people. 
 I'm excited to be a beginner in something new everyday. And though going from the business side to the tech side is an unusual route, I can see how every step helps inform my perspective along the way.
 
-<img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="100">
+<img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="400">
 
 ## Check Out My Projects
 

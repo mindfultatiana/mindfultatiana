@@ -7,8 +7,6 @@ I wanted to keep up with my industry, learn more about machine learning, and mak
 Now here I am growing my knowledge and finally finding my purpose. I love research and building things that help people. 
 I'm excited to be a beginner in something new everyday. And though going from the business side to the tech side is an unusual route, I can see how every step helps inform my perspective along the way.
 
-<img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="300">
-
 ## Check Out My Projects
 
 ### Data Science Projects
@@ -20,6 +18,8 @@ Coming Soon...
 ### Python Projects
 [Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
 [Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
+
+<img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="300">
 
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/d7894a6e1263433db93a4d03fe28f5a4.png?r=exb" width="300" alt="Tatiana Mathis's Dev Card"/></a>

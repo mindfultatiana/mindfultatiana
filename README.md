@@ -11,13 +11,13 @@ I'm excited to be a beginner in something new everyday. And though going from th
 
 # Check Out My Projects
 
-## Data Science Projects
+### Data Science Projects
 Coming Soon...
 
-## Web Development Projects
+### Web Development Projects
 [Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024)
 
-## Python Projects
+### Python Projects
 [Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
 [Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
 

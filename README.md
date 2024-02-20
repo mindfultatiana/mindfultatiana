@@ -14,7 +14,7 @@ I'm excited to be a beginner in something new everyday. And though going from th
 ### Data Science Projects
 Coming Soon...
 
-### Web Development Projects
+### Web Projects
 [Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024)
 
 ### Python Projects

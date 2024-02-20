@@ -11,7 +11,7 @@ I'm excited to be a beginner in something new everyday. And though going from th
 
 # Check Out My Projects
 
-### Data Science Projects
+### Data Analytics Projects
 Coming Soon...
 
 ### Web Projects

@@ -15,7 +15,7 @@ I'm excited to be a beginner in something new everyday. And though going from th
 Coming Soon...
 
 ### Web Projects
-[Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024)
+[Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024) <br></br>
 [Father's Day Card](https://github.com/mindfultatiana/fathersday2024)
 
 ### Python Projects

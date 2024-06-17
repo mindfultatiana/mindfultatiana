@@ -20,7 +20,8 @@ Coming Soon...
 
 ### Python Projects
 [Pomodoro project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
-[Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
+[Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard) <br></br>
+[Tkinter Calculator](https://github.com/mindfultatiana/beginnerPython/tree/main/TkinterCalculator)
 
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="652" alt="Tatiana Mathis's Dev Card"/></a>

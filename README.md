@@ -16,9 +16,10 @@ Coming Soon...
 
 ### Web Projects
 [Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024)
+[Father's Day Card](https://github.com/mindfultatiana/fathersday2024)
 
 ### Python Projects
-[Pomodor project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
+[Pomodoro project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>
 [Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard)
 
 ## DevCard

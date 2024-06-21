@@ -1,10 +1,10 @@
 # Data Driven Marketing Professional
 Hi, my name is Tatiana Mathis and I am a Marketer, Programmer, and Data Analyst.
 I got my MBA in Marketing in 2019, which showed me consumer behavior, market research, statistics, and calculus with an emphasis on changes in the market. 
-I fell in love. I had worked as a marketer for several private sector business, a couple nonprofits, and spent years as a tech founder for Comm Geeks LLC a small web development firm. 
+I fell in love. I had worked as a marketer for several private sector business, a couple nonprofits, and spent years as a founder of Comm Geeks LLC a small web development firm. 
 
 I wanted to keep up with my industry, learn more about machine learning, and make better predictive decisions for my customers so I jumped into learning code and data science.
-Now here I am growing my knowledge and finally finding my purpose. I love research and building things that help people. 
+Now here I am growing my knowledge and finally finding my purpose. I love research and building things that help people. I am becoming more and more interested in full stack data science and learning about cybersecurity and MLOps.
 I'm excited to be a beginner in something new everyday. And though going from the business side to the tech side is an unusual route, I can see how every step helps inform my perspective along the way.
 
 <img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="300">

@@ -5,7 +5,7 @@ I fell in love. I had worked as a marketer for several private sector business, 
 
 I wanted to keep up with my industry, learn more about machine learning, and make better predictive decisions for my customers so I jumped into learning code and data science.
 Now here I am growing my knowledge and finally finding my purpose. I love research and building things that help people. I am becoming more and more interested in full stack data science and learning about cybersecurity and MLOps.
-I'm excited to be a beginner in something new everyday. And though going from the business side to the tech side is an unusual route, I can see how every step helps inform my perspective along the way.
+I'm excited to be a beginner in something new everyday. And though going from the business side to the tech side is an unusual route, I now see the gift of having a product first mindset.
 
 <img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="300">
 

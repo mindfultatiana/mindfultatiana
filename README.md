@@ -27,6 +27,7 @@ Created an in-depth cybersecurity plan for NSAI Energy a renewable energy develo
 Coming Soon...
 
 ### Web Projects
+[NSAI Energy Development Website](https://nsaienergydevelopment.com/)
 [Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024) <br></br>
 [Father's Day Card](https://github.com/mindfultatiana/fathersday2024)
 

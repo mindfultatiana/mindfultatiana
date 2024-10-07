@@ -1,13 +1,22 @@
-# Data Driven Marketing Professional
-Hi, my name is Tatiana Mathis and I am a Marketer, Programmer, and Data Analyst.
-I got my MBA in Marketing in 2019, which showed me consumer behavior, market research, statistics, and calculus with an emphasis on changes in the market. 
-I fell in love. I had worked as a marketer for several private sector business, a couple nonprofits, and spent years as a founder of Comm Geeks LLC a small web development firm. 
+# Cybersecurity and Business Intelligence Professional
+"Hi, my name is Tatiana Mathis, and I am a Cybersecurity Analyst and Business Intelligence Enthusiast.
 
-I wanted to keep up with my industry, learn more about machine learning, and make better predictive decisions for my customers so I jumped into learning code and data science.
-Now here I am growing my knowledge and finally finding my purpose. I love research and building things that help people. I am becoming more and more interested in full stack data science and learning about cybersecurity and MLOps.
-I'm excited to be a beginner in something new everyday. And though going from the business side to the tech side is an unusual route, I now see the gift of having a product first mindset.
+I hold an MBA in Marketing, which gave me a strong foundation in consumer behavior, market research, and data analysis. My journey began in marketing, working with both private sector companies and nonprofits, as well as founding Comm Geeks LLC, a small web development firm.
 
-<img src="https://github.com/mindfultatiana/mindfultatiana/assets/13071148/ee4c3823-4746-456e-a8ec-4d4894fd91d8" width="300">
+As I sought to deepen my understanding of market dynamics and data-driven decision-making, I transitioned into cybersecurity and business intelligence. 
+
+I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. While I'm continuously learning about web development, my main focus is on applying cybersecurity principles and business intelligence to protect and empower organizations.
+
+# Recent Trainings and Certs
+* RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
+* CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* DAU Cybersecurity for Small Business (Jul 2024)
+* DAU Zero Trust: Transforming Cybersecurity - Nest Generation Mission-Based Security for Systems Engineers (Jul 2024)
+* DAU (Defence Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
+* Techstrong A Realist Approach to Least Privilege in Cloud (Jun 2024)
+* 6-week Cybersecurity Training by CASCADE and CMTC funded by the DoD (Jun 2024)
+* BUILD 2023 LLM Bootcamp Badge (Dec 2023)
 
 # Check Out My Projects
 

@@ -12,7 +12,7 @@ I'm passionate about research and building solutions that help businesses safegu
 * CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
 * CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
 * DAU Cybersecurity for Small Business (Jul 2024)
-* DAU Zero Trust: Transforming Cybersecurity - Nest Generation Mission-Based Security for Systems Engineers (Jul 2024)
+* DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)
 * DAU (Defence Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in Cloud (Jun 2024)
 * 6-week Cybersecurity Training by CASCADE and CMTC, funded by the DoD (Jun 2024)

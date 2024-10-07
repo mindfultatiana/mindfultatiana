@@ -20,16 +20,18 @@ I'm passionate about research and building solutions that help businesses safegu
 
 # Check Out My Projects
 ### Cybersecurity
-##### NSAI Energy Cybersecurity Plan 2023
+##### NSAI Energy Cybersecurity Plan (Feb 2024)
 Created an in-depth cybersecurity plan for NSAI Energy a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 
 ### Data Analytics Projects
 Coming Soon...
 
 ### Web Projects
-[NSAI Energy Development Website](https://nsaienergydevelopment.com/) <br></br>
-[Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024) <br></br>
-[Father's Day Card](https://github.com/mindfultatiana/fathersday2024)
+[NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>
+##### Digital Greeting Cards
+[Father's Day Card](https://github.com/mindfultatiana/fathersday2024) (Jun 2024) <br></br>
+[Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024) (feb 2024) 
+
 
 ### Python Projects
 [Pomodoro project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) <br></br>

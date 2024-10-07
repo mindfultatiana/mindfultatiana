@@ -1,7 +1,7 @@
 # Cybersecurity and Business Intelligence Professional
 Hi, my name is Tatiana Mathis, and I am a Cybersecurity Analyst and Business Intelligence Enthusiast.
 
-I hold a MBA in Marketing, which gave me a strong foundation in strategic leadership, consumer behavior, market research, data analysis, and business operations. My journey began in marketing, working with both private sector companies and nonprofits, as well as founding Comm Geeks LLC, a small web development firm.
+I hold a MBA in Marketing, which gave me a strong foundation in strategic leadership, consumer behavior, market research, data analysis, and business operations. My journey began in marketing. I worked with both private sector companies and nonprofits, as well as founded Comm Geeks LLC, a small web development firm.
 
 As I sought to deepen my understanding of market dynamics and data-driven decision-making, I transitioned into cybersecurity and business intelligence. 
 

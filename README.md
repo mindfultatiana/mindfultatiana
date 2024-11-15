@@ -25,7 +25,7 @@ I'm passionate about research and building solutions that help businesses safegu
 Created an in-depth cybersecurity plan for NSAI Energy a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 
 ### Data Analytics Projects
-[Snowflake BUILD Day One Analytics LLM with Streamlit](https://app.snowflake.com/cvtbiel/nib46511/#/streamlit-apps/CORTEX_ANALYST_DEMO.REVENUE_TIMESERIES.H79E8WW9RFJYHGOB?ref=snowsight_shared) (Nov 2024)
+[Snowflake BUILD Day One Analytics LLM with Streamlit](https://app.snowflake.com/cvtbiel/nib46511/#/streamlit-apps/CORTEX_ANALYST_DEMO.REVENUE_TIMESERIES.H79E8WW9RFJYHGOB?ref=snowsight_shared) (Nov 2024) <br></br>
 [Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp/tree/main)
 
 ### Web Projects

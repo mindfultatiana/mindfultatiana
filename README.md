@@ -26,6 +26,7 @@ Created an in-depth cybersecurity plan for NSAI Energy a renewable energy develo
 
 ### Data Analytics Projects
 [Snowflake BUILD Day One Analytics LLM with Streamlit](https://app.snowflake.com/cvtbiel/nib46511/#/streamlit-apps/CORTEX_ANALYST_DEMO.REVENUE_TIMESERIES.H79E8WW9RFJYHGOB?ref=snowsight_shared) (Nov 2024)
+[Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp/tree/main)
 
 ### Web Projects
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>

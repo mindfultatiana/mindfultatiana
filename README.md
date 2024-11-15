@@ -8,6 +8,7 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. While I'm continuously learning about web development, my main focus is on applying cybersecurity principles and business intelligence to protect and empower organizations.
 
 # Recent Trainings and Certs
+* Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
 * CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
 * CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
@@ -16,7 +17,7 @@ I'm passionate about research and building solutions that help businesses safegu
 * DAU (Defence Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in Cloud (Jun 2024)
 * 6-week Cybersecurity Training by DoD CASCADE and CMTC (Jun 2024)
-* BUILD 2023 LLM Bootcamp Badge (Dec 2023)
+* Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)
 
 # Check Out My Projects
 ### Cybersecurity

@@ -8,6 +8,7 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. While I'm continuously learning about web development, my main focus is on applying cybersecurity principles and business intelligence to protect and empower organizations.
 
 # Recent Trainings and Certs
+* RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
 * RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
 * Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)

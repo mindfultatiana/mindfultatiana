@@ -10,6 +10,7 @@ I'm passionate about research and building solutions that help businesses safegu
 # Recent Trainings and Certs
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
+* HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
 * RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
 * Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)

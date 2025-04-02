@@ -5,7 +5,7 @@ I hold a MBA in Marketing, which gave me a strong foundation in strategic leader
 
 As I sought to deepen my understanding of market dynamics and data-driven decision-making, I transitioned into cybersecurity and business intelligence. 
 
-I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. While I'm continuously learning about web development, my main focus is on applying cybersecurity principles and business intelligence to protect and empower organizations.
+I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. 
 
 # Recent Trainings and Certs
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)

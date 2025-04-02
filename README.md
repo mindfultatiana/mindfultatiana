@@ -8,6 +8,7 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. While I'm continuously learning about web development, my main focus is on applying cybersecurity principles and business intelligence to protect and empower organizations.
 
 # Recent Trainings and Certs
+* RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
@@ -37,10 +38,10 @@ Created an in-depth cybersecurity plan for NSAI Energy a renewable energy develo
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br></br>
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br></br>
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>
+
 ##### Digital Greeting Cards
 [Father's Day Card](https://github.com/mindfultatiana/fathersday2024) (Jun 2024) <br></br>
 [Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024) (Feb 2024) 
-
 
 ### Python Projects
 [Pomodoro project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) (Jan 2024) <br></br>

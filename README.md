@@ -8,7 +8,7 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. 
 
 # Recent Trainings and Certs
-* 5-Day Gen AI Intensive Course with Google Live w/ Kaggle Capstone (Apr 2025)
+* Live 5-Day Gen AI Intensive Course with Google and Kaggle Capstone (Apr 2025)
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)

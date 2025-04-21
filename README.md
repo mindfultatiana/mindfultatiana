@@ -62,7 +62,7 @@ I'm passionate about research and building solutions that help businesses safegu
 </div>
 
 ###
-<br></br>
+
 # Recent Trainings and Certs
 * Live 5-Day Gen AI Intensive Course with Google and Kaggle Capstone (Apr 2025)
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)

@@ -104,13 +104,5 @@ Created an in-depth cybersecurity plan for NSAI Energy a renewable energy develo
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mindfultatiana/mindfultatiana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mindfultatiana/mindfultatiana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mindfultatiana/mindfultatiana/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="652" alt="Tatiana Mathis's Dev Card"/></a>

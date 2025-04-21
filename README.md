@@ -1,4 +1,4 @@
-# Cybersecurity and Business Intelligence Professional
+![idj3qWXVFZ_1745230319461](https://github.com/user-attachments/assets/4779138e-5f10-4d4c-ad16-345f43a1c825)# Cybersecurity and Business Intelligence Professional
 Hi, my name is Tatiana Mathis, and I am a Cybersecurity GRC and BI analyst.
 
 I hold a MBA in Marketing, which gave me a strong foundation in strategic leadership, consumer behavior, market research, data analysis, and business operations. My journey began in marketing. I worked with both private sector companies and nonprofits. I founded Comm Geeks LLC, a small web development firm for e-commerce.
@@ -43,6 +43,8 @@ I'm passionate about research and building solutions that help businesses safegu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZXnFN_Bq5LOE2NPMdSplPURCQd8nxA0XBA&s" height="40" alt="langchain logo" />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667589076965" height="40" alt="snowflake logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />

@@ -101,15 +101,5 @@ Created an in-depth cybersecurity plan for NSAI Energy a renewable energy develo
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br></br>
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>
 
-##### Digital Greeting Cards
-[Father's Day Card](https://github.com/mindfultatiana/fathersday2024) (Jun 2024) <br></br>
-[Valentines Day Card](https://github.com/mindfultatiana/valentinesday2024) (Feb 2024) 
-
-### Python Projects
-[Pomodoro project](https://github.com/mindfultatiana/beginnerPython/tree/main/Pomodoro) (Jan 2024) <br></br>
-[Whiteboard and Black Board Project](https://github.com/mindfultatiana/beginnerPython/tree/main/whiteBoard) (Jan 2024) <br></br>
-[Tkinter Calculator](https://github.com/mindfultatiana/beginnerPython/tree/main/TkinterCalculator) (Jan 2024)
-
-
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="652" alt="Tatiana Mathis's Dev Card"/></a>

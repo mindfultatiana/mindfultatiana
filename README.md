@@ -80,7 +80,6 @@ I'm passionate about research and building solutions that help businesses safegu
 </div>
 
 ###
-<br></br>
 
 # Check Out My Projects
 ### Cybersecurity

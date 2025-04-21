@@ -5,7 +5,7 @@ I hold a MBA in Marketing, which gave me a strong foundation in strategic leader
 
 As I sought to deepen my understanding of market dynamics and data-driven decision-making, I transitioned into cybersecurity and business intelligence. 
 
-I love learning and building things. I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. <br></br>
+I love learning and building things. I'm also passionate about research and finding solutions that help businesses safeguard their data and infrastructure. <br></br>
 
 # Recent Trainings and Certs
 * Live 5-Day Gen AI Intensive Course with Google and Kaggle Capstone (Apr 2025)

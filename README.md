@@ -7,6 +7,8 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 
 I'm passionate about research and building solutions that help businesses safeguard their data and infrastructure. 
 
+###
+
 <h2 align="center">Languages and Tools I know</h2>
 
 ###

@@ -44,8 +44,10 @@ I'm passionate about research and building solutions that help businesses safegu
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZXnFN_Bq5LOE2NPMdSplPURCQd8nxA0XBA&s" height="40" alt="langchain logo" />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1667589076965" height="40" alt="snowflake logo" />
-  <img width="10" />
+  <img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" height="40" alt="huggingface logo" />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="snowflake logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />

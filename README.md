@@ -9,7 +9,7 @@ I'm passionate about research and building solutions that help businesses safegu
 
 ###
 
-<h2 align="left">Languages and Tools I know</h2>
+<h1 align="left">Languages and Tools I know</h2>
 
 ###
 

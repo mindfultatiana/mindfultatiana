@@ -102,4 +102,4 @@ Created an in-depth cybersecurity plan for NSAI Energy a renewable energy develo
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>
 
 ## DevCard
-<a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="652" alt="Tatiana Mathis's Dev Card"/></a>
+<a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="432" alt="Tatiana Mathis's Dev Card"/></a>

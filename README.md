@@ -1,4 +1,4 @@
-![langchain](https://github.com/user-attachments/assets/e5c895e3-0207-4b48-962b-d265692e32b8)# Cybersecurity and Business Intelligence Professional
+# Cybersecurity and Business Intelligence Professional
 Hi, my name is Tatiana Mathis, and I am a Cybersecurity GRC and BI analyst.
 
 I hold a MBA in Marketing, which gave me a strong foundation in strategic leadership, consumer behavior, market research, data analysis, and business operations. My journey began in marketing. I worked with both private sector companies and nonprofits. I founded Comm Geeks LLC, a small web development firm for e-commerce.

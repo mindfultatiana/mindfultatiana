@@ -46,10 +46,15 @@ I'm passionate about building things, research, and finding solutions that help 
   <img width="12" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" /></a>
+  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" height="40" alt="huggingface logo" />
+  <img width="12" /></a>
+  <a href="https://www.kaggle.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" /></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*45ASSHV6mTi3AOvh_K3HOg.png" height="40" alt="langchain logo" />
   <img width="12" /></a>
+<br></br>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -59,6 +64,10 @@ I'm passionate about building things, research, and finding solutions that help 
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" /></a>
+  <a href="https://docs.snowflake.com/?_fsi=X5sf3F1j" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668517499361" height="40" alt="snowflake logo" />
   <img width="12" /></a>
   <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" height="40" alt="wordpress logo"  />
   <img width="12" /></a>

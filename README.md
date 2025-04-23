@@ -8,6 +8,7 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 I'm passionate about building things, research, and finding solutions that help businesses safeguard their data and infrastructure. <br></br>
 
 # Recent Trainings and Certs
+* Network Security Monitoring: Preparing for NERC CIP 015 from Black & Veatch (Apr 2025)
 * Live 5-Day Gen AI Intensive Course with Google and Kaggle Capstone (Apr 2025)
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)

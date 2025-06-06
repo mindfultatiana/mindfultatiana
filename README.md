@@ -9,6 +9,7 @@ I'm passionate about building things, research, and finding solutions that help 
 
 # Recent Trainings and Certs
 
+* RSAC 365 Cloud Security (Jun 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
 * Google 5-Day Gen AI Intensive Course and Kaggle Capstone (Apr 2025)

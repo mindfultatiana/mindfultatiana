@@ -10,10 +10,12 @@ I'm passionate about building things, research, and finding solutions that help 
 # Recent Trainings and Certs
 
 * RSAC 365 Cloud Security (Jun 2025)
+* RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
 * Google 5-Day Gen AI Intensive Course and Kaggle Capstone (Apr 2025)
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
+* RSAC 365 Building Resilient Systems (Mar 2025)
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)

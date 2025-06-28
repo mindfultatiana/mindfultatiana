@@ -7,7 +7,7 @@ As I sought to deepen my understanding of market dynamics and data-driven decisi
 
 I'm passionate about building things, research, and finding solutions that help businesses safeguard their data and infrastructure. <br></br>
 
-# Recent Trainings and Certs
+# Recent Training and Certs
 
 * RSAC 365 Cloud Security (Jun 2025)
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)

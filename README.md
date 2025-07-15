@@ -83,7 +83,7 @@ I'm passionate about building things, research, and finding solutions that help 
 # Check Out My Projects
 ### Cybersecurity
 ##### NSAI Energy Cybersecurity Plan (Feb 2024)
-Created an in-depth cybersecurity plan for NSAI Energy a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
+Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE, as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 
 ### Data Analytics and AI Projects
 [Google Gen AI Tax Assistant Capstone Project](https://github.com/mindfultatiana/GenAITaxAssistant) (Apr 2025) <br></br>

@@ -44,8 +44,6 @@ I'm passionate about building things, research, and finding solutions that help 
   <img width="12" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40" alt="c logo"  />
   <img width="12" /></a>
-  <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" alt="c++ logo" />
-  <img width="12" /></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />

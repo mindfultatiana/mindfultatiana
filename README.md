@@ -1,11 +1,9 @@
-# Cybersecurity and Business Intelligence Professional
-Hi, my name is Tatiana Mathis, and I am a Cybersecurity GRC and BI analyst.
+# Cybersecurity, Business Intelligence, and AI Project Developer
+Hi, I’m Tatiana Mathis — Cybersecurity GRC and BI Analyst, and Independent AI Project Developer.
 
-I hold an MBA in Marketing, which gives me a strong foundation in strategic leadership, consumer behavior, market research, data analysis, and business operations. My journey began in marketing. I worked with both private sector companies and nonprofits. I founded Comm Geeks LLC, a small web development firm for e-commerce.
+I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator.
 
-As I sought to deepen my understanding of market dynamics and data-driven decision-making, I transitioned into cybersecurity and business intelligence. 
-
-I'm passionate about building things, research, and finding solutions that help businesses safeguard their data and infrastructure. <br></br>
+I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
 
 # Recent Training and Certs
 

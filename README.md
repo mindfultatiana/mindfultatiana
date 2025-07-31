@@ -11,23 +11,23 @@ I primarily develop in Jupyter and Kaggle notebooks, with growing experience in 
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
-* Google 5-Day Gen AI Intensive Course and Kaggle Capstone (Apr 2025)
+* **Google 5-Day Gen AI Intensive Course and Kaggle Capstone (Apr 2025)**
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * RSAC 365 Building Resilient Systems (Mar 2025)
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
 * RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
-* Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)
+* **Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)**
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
-* CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
-* CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* **CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
+* **CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
 * DAU Cybersecurity for Small Business (Jul 2024)
 * DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in Cloud (Jun 2024)
-* 6-week Zero Trust Cybersecurity and CUI Training by DoD CASCADE and CMTC (Jun 2024)
-* Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)
+* **6-week Zero Trust Cybersecurity and CUI Training by DoD CASCADE and CMTC (Jun 2024)**
+* **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
 
 ###
 

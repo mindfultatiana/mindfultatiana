@@ -80,15 +80,18 @@ I primarily develop in Jupyter and Kaggle notebooks, with growing experience in 
 
 # Check Out My Projects
 ### Cybersecurity
+[Application that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025) <br></br>
 ##### NSAI Energy Cybersecurity Plan (Feb 2024)
 Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE, as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 
 ### Data Analytics and AI Projects
-[Application that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025) <br></br>
 [Google Gen AI Tax Assistant Capstone Project](https://github.com/mindfultatiana/GenAITaxAssistant) (Apr 2025) <br></br>
 [Singlestore Build Vector Embeddings for Video via Python Notebook & OpenAI CLIP](https://github.com/mindfultatiana/Vector-Embeddings-for-Video) (Dec 2024) <br></br>
 [Snowflake BUILD Day One Analytics LLM App with Streamlit](https://github.com/mindfultatiana/AnalystLLM) (Nov 2024) <br></br>
 [Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024)
+
+### Scripts and Apps
+[HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG)
 
 ### Web Projects
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br></br>

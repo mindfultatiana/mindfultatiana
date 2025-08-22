@@ -26,7 +26,7 @@ I primarily develop in Jupyter and Kaggle notebooks, with growing experience in 
 * DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in Cloud (Jun 2024)
-* **6-week Zero Trust Cybersecurity and CUI Training by DoD CASCADE and CMTC (Jun 2024)**
+* **6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)**
 * **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
 
 ###

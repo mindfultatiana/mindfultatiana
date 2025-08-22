@@ -91,9 +91,10 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024)
 
 ### Scripts and Apps
-[HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG)
+[HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG) (Aug 2025)
 
 ### Web Projects
+[Filelinker local server for downloading zipped folders and files](https://github.com/mindfultatiana/filelinker) (Aug 2025) <br></br>
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br></br>
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br></br>
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>

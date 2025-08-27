@@ -1,5 +1,5 @@
 # Cybersecurity, Business Intelligence, and AI Project Developer
-Hi, I’m Tatiana Mathis — Cybersecurity GRC and BI Analyst, and Independent AI Project Developer.
+Hi, I’m Tatiana Mathis — Cybersecurity GRC, BI Analyst, and Independent AI Project Developer.
 
 I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator.
 

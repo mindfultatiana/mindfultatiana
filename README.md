@@ -3,7 +3,7 @@ Hi, I’m Tatiana Mathis — Cybersecurity GRC, BI Analyst, and Independent AI P
 
 I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator.
 
-I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
+I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
 
 # Recent Training and Certs
 

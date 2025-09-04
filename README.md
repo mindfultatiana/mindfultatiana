@@ -91,6 +91,7 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024)
 
 ### Scripts and Apps
+[Brick Breaker Android Game using Kivy and Buildozer in Docker](https://github.com/mindfultatiana/BreakoutGame) (Sep 2025) <br></br>
 [Django Issue Ticketing App](https://github.com/mindfultatiana/djangoticketapp) (Aug 2025) <br></br>
 [React Issue Ticketing App](https://github.com/mindfultatiana/issue-tracker) (Aug 2025) <br></br>
 [HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG) (Aug 2025)<br></br>

@@ -6,7 +6,7 @@ I hold an MBA in Marketing, blending strategic leadership with data analysis and
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
 
 # Recent Training and Certs
-
+* RSAC 365 Build a Secure AI Assistant in a Regulated Industry (Sep 2025)
 * RSAC 365 Cloud Security (Jun 2025)
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)

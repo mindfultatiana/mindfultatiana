@@ -5,32 +5,24 @@ I hold an MBA in Marketing, blending strategic leadership with data analysis and
 
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
 
-# Recent Training and Certs
+# Training and Certs
 * TechStrong Securing Vibe Coding: Addressing the Security Challenges of AI-Generated
 Code (Sep 2025)
 * RSAC 365 Build a Secure AI Assistant in a Regulated Industry (Sep 2025)
 * HDIAC Emergency Management Intelligence: The Need for Civilian Authorities Support (Jul 2025)
 * RSAC 365 Cloud Security (Jun 2025)
-* RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
 * **Google 5-Day Gen AI Intensive Course and Kaggle Capstone (Apr 2025)**
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
-* RSAC 365 Building Resilient Systems (Mar 2025)
-* RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
-* RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
-* HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
-* RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
 * **Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)**
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
 * **CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
 * **CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
-* DAU Cybersecurity for Small Business (Jul 2024)
 * DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
-* Techstrong A Realist Approach to Least Privilege in Cloud (Jun 2024)
+* Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
 * **6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)**
-* **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
 
 ###
 
@@ -105,6 +97,16 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br></br>
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br></br>
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>
+
+## Additional Training
+* RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
+* RSAC 365 Building Resilient Systems (Mar 2025)
+* RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
+* RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
+* RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
+* HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
+* DAU Cybersecurity for Small Business (Jul 2024)
+* **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
 
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="432" alt="Tatiana Mathis's Dev Card"/></a>

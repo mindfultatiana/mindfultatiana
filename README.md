@@ -83,7 +83,8 @@ Code (Sep 2025)
 
 # Check Out My Projects
 ### Cybersecurity
-[Application that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)
+[Malware Scanner for .EXE files and Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)
+[Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)
 ##### NSAI Energy Cybersecurity Plan (Feb 2024)
 Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE, as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 

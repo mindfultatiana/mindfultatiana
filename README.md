@@ -13,7 +13,7 @@ Code (Sep 2025)
 * RSAC 365 Cloud Security (Jun 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
-* **Google 5-Day Gen AI Intensive Course and Kaggle Capstone (Apr 2025)**
+* **Google 5-Day Gen AI Intensive Course and Kaggle Capstone Badge (Apr 2025)**
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * **Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)**
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)

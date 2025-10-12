@@ -87,13 +87,13 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Snowflake BUILD Day One Analytics LLM App with Streamlit](https://github.com/mindfultatiana/AnalystLLM) (Nov 2024) <br></br>
 [Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024)
 
-### Scripts and Apps
+### More General Apps
 [Brick Breaker Android Game using Kivy and Buildozer in Docker](https://github.com/mindfultatiana/BreakoutGame) (Sep 2025) <br></br>
 [Django Issue Ticketing App](https://github.com/mindfultatiana/djangoticketapp) (Aug 2025) <br></br>
 [React Issue Ticketing App](https://github.com/mindfultatiana/issue-tracker) (Aug 2025) <br></br>
 [HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG) (Aug 2025)<br></br>
 
-### Web Projects
+### Web  and Network Projects
 [Filelinker local server for downloading zipped folders and files](https://github.com/mindfultatiana/filelinker) (Aug 2025) <br></br>
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br></br>
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br></br>

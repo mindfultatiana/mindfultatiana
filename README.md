@@ -1,11 +1,12 @@
 # Cybersecurity, Business Intelligence, and AI Project Developer
 Hi, I’m Tatiana Mathis — Cybersecurity GRC, BI Analyst, and Independent AI Project Developer.
 
-I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator.
+I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator. 
 
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
 
 # Training and Certs
+* **BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)** 
 * TechStrong Securing Vibe Coding: Addressing the Security Challenges of AI-Generated
 Code (Sep 2025)
 * RSAC 365 Build a Secure AI Assistant in a Regulated Industry (Sep 2025)
@@ -15,7 +16,7 @@ Code (Sep 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
 * **Google 5-Day Gen AI Intensive Course and Kaggle Capstone Badge (Apr 2025)**
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
-* **Snowflake BUILD 2024 GenAI Bootcamp Badge (Nov 2024)**
+* **BUILD 2024: GenAI Bootcamp Badge from Snowflake (Nov 2024)**
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
 * **CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
 * **CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**

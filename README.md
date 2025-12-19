@@ -53,9 +53,9 @@ Code (Sep 2025)
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" height="40" alt="google collab logo" />
     <img width="12" /></a>
 <br></br>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="pandas logo"  />
   <img width="12" /></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*45ASSHV6mTi3AOvh_K3HOg.png" height="40" alt="langchain logo" />
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo" />
   <img width="12" /></a>
   <a href="https://docs.ollama.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/ollama.png" height="40" alt="ollama logo" />
     <img width="12" /></a>

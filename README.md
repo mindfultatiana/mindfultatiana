@@ -5,8 +5,6 @@ I hold an MBA in Marketing, blending strategic leadership with data analysis and
 
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. 
 
-<br />
-
 # Training and Certs
 * **Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)**
 * **BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)**
@@ -28,8 +26,6 @@ Code (Sep 2025)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
 * **6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)**
-
-<br />
 
 <h1 align="left">Languages and Tools</h2>
 
@@ -102,7 +98,7 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br />
 [NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br />
 
-<br />
+###
 
 ## Additional Training
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
@@ -114,7 +110,7 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 * DAU Cybersecurity for Small Business (Jul 2024)
 * **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
 
-<br />
+###
 
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="432" alt="Tatiana Mathis's Dev Card"/></a>

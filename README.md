@@ -3,7 +3,9 @@ Hi, I’m Tatiana Mathis — Cybersecurity GRC, BI Analyst, and Independent AI P
 
 I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator. 
 
-I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. <br></br>
+I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker. I’m passionate about building things, practical AI, cybersecurity, and helping businesses protect their data while turning insights into action. 
+
+<br />
 
 # Training and Certs
 * **Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)**
@@ -27,7 +29,7 @@ Code (Sep 2025)
 * Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
 * **6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)**
 
-###
+<br />
 
 <h1 align="left">Languages and Tools</h2>
 
@@ -52,7 +54,7 @@ Code (Sep 2025)
   <img width="12" /></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" height="40" alt="google collab logo" />
     <img width="12" /></a>
-<br></br>
+<br />
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="pandas logo"  />
   <img width="12" /></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo" />
@@ -72,33 +74,35 @@ Code (Sep 2025)
   <a href="https://winworldpc.com/product/ms-dos/622" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  /></a>
 </div>
 
-###
+<br />
 
 # Check Out My Projects
 ### Cybersecurity
-[Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br></br>
-[Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)
+[Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br />
+[Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)<br />
 #### NSAI Energy Cybersecurity Plan (Feb 2024)
 Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE, as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 
 ### Data Analytics and AI Projects
-[Snowflake BUILD Data Engineering with Snowflake CI/CD Notebook Pipeline](https://github.com/mindfultatiana/sfguide-data-engineering-with-notebooks) (Nov 2025) <br></br>
-[Google Gen AI Tax Assistant Capstone Project](https://github.com/mindfultatiana/GenAITaxAssistant) (Apr 2025) <br></br>
-[Singlestore Build Vector Embeddings for Video via Python Notebook & OpenAI CLIP](https://github.com/mindfultatiana/Vector-Embeddings-for-Video) (Dec 2024) <br></br>
-[Snowflake BUILD Day One Analytics LLM App with Streamlit](https://github.com/mindfultatiana/AnalystLLM) (Nov 2024) <br></br>
-[Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024)
+[Snowflake BUILD Data Engineering with Snowflake CI/CD Notebook Pipeline](https://github.com/mindfultatiana/sfguide-data-engineering-with-notebooks) (Nov 2025) <br />
+[Google Gen AI Tax Assistant Capstone Project](https://github.com/mindfultatiana/GenAITaxAssistant) (Apr 2025) <br />
+[Singlestore Build Vector Embeddings for Video via Python Notebook & OpenAI CLIP](https://github.com/mindfultatiana/Vector-Embeddings-for-Video) (Dec 2024) <br />
+[Snowflake BUILD Day One Analytics LLM App with Streamlit](https://github.com/mindfultatiana/AnalystLLM) (Nov 2024) <br />
+[Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024) <br />
 
 ### More General Apps
-[Brick Breaker Android Game using Kivy and Buildozer in Docker](https://github.com/mindfultatiana/BreakoutGame) (Sep 2025) <br></br>
-[Django Issue Ticketing App](https://github.com/mindfultatiana/djangoticketapp) (Aug 2025) <br></br>
-[React Issue Ticketing App](https://github.com/mindfultatiana/issue-tracker) (Aug 2025) <br></br>
-[HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG) (Aug 2025)<br></br>
+[Brick Breaker Android Game using Kivy and Buildozer in Docker](https://github.com/mindfultatiana/BreakoutGame) (Sep 2025) <br />
+[Django Issue Ticketing App](https://github.com/mindfultatiana/djangoticketapp) (Aug 2025) <br />
+[React Issue Ticketing App](https://github.com/mindfultatiana/issue-tracker) (Aug 2025) <br />
+[HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG) (Aug 2025)<br />
 
 ### Web  and Network Projects
-[Filelinker local server for downloading zipped folders and files](https://github.com/mindfultatiana/filelinker) (Aug 2025) <br></br>
-[Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br></br>
-[Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br></br>
-[NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br></br>
+[Filelinker local server for downloading zipped folders and files](https://github.com/mindfultatiana/filelinker) (Aug 2025) <br />
+[Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br />
+[Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br />
+[NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br />
+
+<br />
 
 ## Additional Training
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
@@ -109,6 +113,8 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
 * DAU Cybersecurity for Small Business (Jul 2024)
 * **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
+
+<br />
 
 ## DevCard
 <a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="432" alt="Tatiana Mathis's Dev Card"/></a>

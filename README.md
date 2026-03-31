@@ -42,7 +42,7 @@ Code (Sep 2025)
   <img width="12" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" /></a>
-  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516030712" height="40" alt="huggingface logo" />
+  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1770270520449" height="40" alt="huggingface logo" />
   <img width="12" /></a>
   <a href="https://www.kaggle.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" /></a>

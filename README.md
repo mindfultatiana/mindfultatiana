@@ -93,7 +93,8 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [React Issue Ticketing App](https://github.com/mindfultatiana/issue-tracker) (Aug 2025) <br />
 [HEIC to JPEG Converter](https://github.com/mindfultatiana/HEICtoJPEG) (Aug 2025)<br />
 
-### Web  and Network Projects
+### Web and Network Projects
+[Offline Broadcom BCM4360 WiFi Driver Installer for Linux](https://github.com/mindfultatiana/linux_wifi_driver) (Apr 2026) <br />
 [Filelinker local server for downloading zipped folders and files](https://github.com/mindfultatiana/filelinker) (Aug 2025) <br />
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br />
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br />

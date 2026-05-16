@@ -87,6 +87,7 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Snowflake BUILD Day Two RAG based Chatbot that parses PDFs](https://github.com/mindfultatiana/RAG_CortexApp) (Nov 2024) <br />
 
 ### More General Apps and Tools
+[Joplin TabOut Plugin](https://github.com/mindfultatiana/joplin-tabout) (May 2026) <br />
 [FLAC to MP3 Batch Converter](https://github.com/mindfultatiana/flac-to-mp3) (May 2026) <br />
 [AI and Business MS Word Dictionary](https://github.com/mindfultatiana/ai-business-msword-dictionary) (Apr 2026) <br />
 [Joplin Bullet Point Shortcut Plugin](https://github.com/mindfultatiana/JoplinBulletPointShortcut) (Mar 2026) <br />

@@ -101,7 +101,7 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 [Filelinker local server for downloading zipped folders and files](https://github.com/mindfultatiana/filelinker) (Aug 2025) <br />
 [Turned Statistics Training Repo into a Mkdocs Website with Git and Github CLI](https://mindfultatiana.github.io/NoBSstats/) (Dec 2024) <br />
 [Deployed Cyberstrike Lab Manual with Git and Github CLI](https://mindfultatiana.github.io/cyberstrike_stormcloud/) (Dec 2024) <br />
-[NSAI Energy Development Website](https://nsaienergydevelopment.com/) (May 2024) <br />
+[NSAI Energy Development Website Using Wordpress](https://nsaienergydevelopment.com/) (May 2024) <br />
 
 ###
 

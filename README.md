@@ -5,7 +5,7 @@ I hold an MBA in Marketing, blending strategic leadership with data analysis and
 
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker, Snowflake data warehouses, and Debian based environments. I’m passionate about building things, safe AI, and helping businesses protect their data while turning insights into action. 
 
-# Cybersecurity Training and Certs
+## Cybersecurity Training and Certs
 * RSAC 365: SANS Follow Up Session: The Five Most Dangerous New Attack Techniques (Jun 2026)
 * RSAC 365 Powering Autonomous Cybersecurity with AI Agents (May 2026)
 * TechStrong Securing Vibe Coding: Addressing the Security Challenges of AI-Generated
@@ -24,7 +24,7 @@ Code (Sep 2025)
 * Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
 * **6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)**
 
-# AI Developer Training and Certs
+## AI Developer Training and Certs
 * **Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)**
 * **BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)**
 * **BUILD 2025-2026: Gen AI Bootcamp Badge from Snowflake (Nov 2025)**
@@ -78,7 +78,7 @@ Code (Sep 2025)
 
 <br />
 
-# Check Out My Projects
+## Check Out My Projects
 ### Cybersecurity
 [Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br />
 [Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)<br />

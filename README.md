@@ -5,7 +5,19 @@ I hold an MBA in Marketing, blending strategic leadership with data analysis and
 
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker, Snowflake data warehouses, and Debian based environments. I’m passionate about building things, safe AI, and helping businesses protect their data while turning insights into action. 
 
-## Cybersecurity Training and Certs
+# Training
+### Bootcamps and Certs:
+* Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)
+* BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)
+* BUILD 2025-2026: Gen AI Bootcamp Badge from Snowflake (Nov 2025)
+* Google 5-Day Gen AI Intensive Course and Kaggle Capstone Badge (Apr 2025)
+* BUILD 2024: GenAI Bootcamp Badge from Snowflake (Nov 2024)
+* CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* 6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)
+* Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)
+
+### Classes:
 * RSAC 365: SANS Follow Up Session: The Five Most Dangerous New Attack Techniques (Jun 2026)
 * RSAC 365 Powering Autonomous Cybersecurity with AI Agents (May 2026)
 * TechStrong Securing Vibe Coding: Addressing the Security Challenges of AI-Generated
@@ -16,22 +28,13 @@ Code (Sep 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
 * RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
+* RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
+* RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
+* RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
-* **CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
-* **CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)**
 * DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
-* **6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)**
-
-## AI Developer Training and Certs
-* **Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)**
-* **BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)**
-* **BUILD 2025-2026: Gen AI Bootcamp Badge from Snowflake (Nov 2025)**
-* **Google 5-Day Gen AI Intensive Course and Kaggle Capstone Badge (Apr 2025)**
-* **BUILD 2024: GenAI Bootcamp Badge from Snowflake (Nov 2024)**
-* **Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)**
-
 
 <h1 align="left">Languages and Tools</h2>
 
@@ -78,7 +81,7 @@ Code (Sep 2025)
 
 <br />
 
-## Check Out My Projects
+# Check Out My Projects
 ### Cybersecurity
 [Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br />
 [Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)<br />
@@ -111,12 +114,9 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 
 ###
 
-## Additional Training
+# Additional Training
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
 * RSAC 365 Building Resilient Systems (Mar 2025)
-* RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
-* RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
-* RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
 * DAU Cybersecurity for Small Business (Jul 2024)
 

@@ -6,6 +6,7 @@ I hold an MBA in Marketing, blending strategic leadership with data analysis and
 I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker, Snowflake data warehouses, and Debian based environments. I’m passionate about building things, safe AI, and helping businesses protect their data while turning insights into action. 
 
 # Training and Certs
+* RSAC 365: SANS Follow Up Session: The Five Most Dangerous New Attack Techniques (Jun 2026)
 * RSAC 365 Powering Autonomous Cybersecurity with AI Agents (May 2026)
 * **Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)**
 * **BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)**

@@ -123,8 +123,3 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 * RSAC 365 Building Resilient Systems (Mar 2025)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
 * DAU Cybersecurity for Small Business (Jul 2024)
-
-###
-
-## DevCard
-<a href="https://app.daily.dev/mindfultatiana"><img src="https://api.daily.dev/devcards/v2/4Ip0Wign9iPYa1xMGoscF.png?r=t7a&type=wide" width="432" alt="Tatiana Mathis's Dev Card"/></a>

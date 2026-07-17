@@ -1,12 +1,12 @@
-# Cybersecurity, Business Intelligence, and AI Project Developer
-Hi, I’m Tatiana Mathis — Cybersecurity GRC, BI Analyst, and Independent AI Project Developer.
+# Cybersecurity GRC and AI Governance Analyst
+Hi, I’m Tatiana Mathis — I am a Cybersecurity GRC and AI Governance Analyst focused on the energy sector. I am DoE/DoD-trained (STORMCLOUD, Zero Trust). I build practical AI and secure tools in Python for the renewable energy industry.
 
-I hold an MBA in Marketing, blending strategic leadership with data analysis and business operations. My work bridges cybersecurity, business intelligence, and applied AI development. I build custom AI tools and prototypes using Python, including a generative AI tax estimator and an AI-powered multi-chapter manual generator. 
+I hold an MBA in Marketing, which provides an unusual analytical lens on cybersecurity — treating security programs as products with stakeholders, adoption curves, and measurable outcomes. 
 
-I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker, Snowflake data warehouses, and Debian based environments. I’m passionate about building things, safe AI, and helping businesses protect their data while turning insights into action. 
+I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker, Snowflake data warehouses, and Debian based environments. 
 
 # Training
-### Bootcamps and Certs:
+### Featured Training:
 * Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)
 * BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)
 * BUILD 2025-2026: Gen AI Bootcamp Badge from Snowflake (Nov 2025)
@@ -60,7 +60,9 @@ Code (Sep 2025)
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" height="40" alt="google collab logo" />
     <img width="12" /></a>
 <br />
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="pandas logo"  />
+  <a href="https://www.cisa.gov/downloading-and-installing-csetr" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/YtYkLzWQEIrP4gFpuKTpqtw2yvcL0bqOCmppaTjVU8BkihipuyfpNEabJAc2agmTsWNgGWE52w=s900-c-k-c0x00ffffff-no-rj" height="40" alt="CSET Tool Logo" />
+  <img width="12" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="pandas logo"  />
   <img width="12" /></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo" />
   <img width="12" /></a>
@@ -76,7 +78,7 @@ Code (Sep 2025)
   <img width="12" /></a>
   <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" height="40" alt="wordpress logo"  />
   <img width="12" /></a>
-  <a href="https://winworldpc.com/product/ms-dos/622" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  /></a>
+ 
 </div>
 
 <br />
@@ -86,6 +88,8 @@ Code (Sep 2025)
 [Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br />
 [Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)<br />
 #### NSAI Energy Cybersecurity Plan (Feb 2024)
+*Proprietary client work; details available under NDA.*<br />
+
 Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy developer. The plan was created to be included in a grant proposal and followed the cybersecurity capability maturity model (C2M2) by the DoE, as well as NIST SP800-61r3 recommendations. The plan was comprehensive with the client receiving: architecture and crisis chain of command suggestions, incident response procedures, auditing procedures, asset management documents, and a vendor on-boarding program. 
 
 ### Data Analytics and AI Projects

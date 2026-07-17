@@ -5,6 +5,8 @@ MBA in Marketing, former co-founder and CEO of Comm Geeks LLC (web development a
 
 DoE CESER / INL trained (CyberStrike STORMCLOUD, solar and wind), DoD CMTC Zero Trust and CUI, two Google/Kaggle AI Intensive capstones. I build practical AI tools in Python and work across Docker, Snowflake, and Debian environments.
 
+*Currently focused on: AI governance, OT/ICS security, and building tools for renewable energy developers.*
+
 # Training
 ### Featured Training:
 * Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)

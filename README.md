@@ -1,9 +1,9 @@
-# Cybersecurity GRC and AI Governance Analyst
-Hi, I’m Tatiana Mathis — I am a Cybersecurity GRC and AI Governance Analyst focused on the energy sector. I am DoE/DoD-trained (STORMCLOUD, Zero Trust). I build practical AI and secure tools in Python for the renewable energy industry.
+# Cybersecurity GRC & AI Governance | Renewable Energy Sector
+Hi, I'm Tatiana Mathis — Cybersecurity GRC and AI Governance Analyst focused on the renewable energy sector.
 
-I hold an MBA in Marketing, which provides an unusual analytical lens on cybersecurity — treating security programs as products with stakeholders, adoption curves, and measurable outcomes. 
+MBA in Marketing, former co-founder and CEO of Comm Geeks LLC (web development and e-commerce). At NSAI Energy, I develop security frameworks that bridge traditional compliance (NIST SP 800-53, ISO 27001, NERC CIP, C2M2) with AI governance for utility-scale solar, wind, and storage projects.
 
-I primarily develop in Jupyter and Kaggle notebooks, with growing experience in full stack projects using Docker, Snowflake data warehouses, and Debian based environments. 
+DoE CESER / INL trained (CyberStrike STORMCLOUD, solar and wind), DoD CMTC Zero Trust and CUI, two Google/Kaggle AI Intensive capstones. I build practical AI tools in Python and work across Docker, Snowflake, and Debian environments.
 
 # Training
 ### Featured Training:
@@ -25,9 +25,9 @@ Code (Sep 2025)
 * RSAC 365 Build a Secure AI Assistant in a Regulated Industry (Sep 2025)
 * HDIAC Emergency Management Intelligence: The Need for Civilian Authorities Support (Jul 2025)
 * RSAC 365 Cloud Security (Jun 2025)
+* RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * Black & Veatch Network Security Monitoring: Preparing for NERC CIP 015  (Apr 2025)
 * RSAC 365 Surviving the Robot Apocalypse II: LLM Attack and Defend (Apr 2025)
-* RSAC 365 From Hack to Sale: The Journey of Stolen Data (Apr 2025)
 * RSAC 365 The Spy Who Hacked Us: Espionage, Cybersecurity, and Supply Chain (Feb 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
 * RSAC 365 Securing Cyber-Physical Systems (Dec 2024)

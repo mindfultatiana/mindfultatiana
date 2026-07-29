@@ -1,13 +1,27 @@
-# Cybersecurity GRC & AI Governance | Renewable Energy Sector
-Hi, I'm Tatiana Mathis — Cybersecurity GRC and AI Governance Analyst focused on the renewable energy sector.
+# AI-Powered Marketing | Renewable Energy
 
-MBA in Marketing, former co-founder and CEO of Comm Geeks LLC (web development and e-commerce). At NSAI Energy, I develop security frameworks that bridge traditional compliance (NIST SP 800-53, ISO 27001, NERC CIP, C2M2) with AI governance for utility-scale solar, wind, and storage projects.
+Hi, I'm Tatiana Mathis. I build AI tools that solve real marketing and
+business development problems — and I understand the security and
+governance side well enough to ship them in regulated industries.
 
-DoE CESER / INL trained (CyberStrike STORMCLOUD, solar and wind), DoD CMTC Zero Trust and CUI, two Google/Kaggle AI Intensive capstones. I build practical AI tools in Python and work across Docker, Snowflake, and Debian environments.
+MBA in Marketing. Former co-founder and CEO of Comm Geeks LLC (web
+development and e-commerce). At NSAI Energy I work at the intersection
+of AI, marketing, and compliance for utility-scale solar, wind, and
+storage projects: prospect research and outreach systems, content
+pipelines, and internal tooling in Python.
 
-*Currently focused on: AI governance, OT/ICS security, and building tools for renewable energy developers.*
+**Why the security background matters:** I hold DoE CESER/INL CyberStrike
+training and DoD CMTC Zero Trust/CUI certification, and I develop AI
+governance frameworks mapped to NIST SP 800-53, ISO 27001, and NERC CIP.
+When AI touches customer data or critical infrastructure, I know where
+the landmines are.
 
-# Training
+**Building with:** Python · Docker · Snowflake · Anthropic & Google APIs
+Two Google/Kaggle AI Intensive capstones.
+
+**Currently:** AI tooling for renewable energy business development.
+
+## Training
 ### Featured Training:
 * Google 5-Day AI Agents Intensive Course and Kaggle Capstone Badge (Dec 2025)
 * BUILD 2025-2026: Data Engineering Bootcamp Badge from Snowflake (Nov 2025)
@@ -39,7 +53,7 @@ Code (Sep 2025)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
 
-<h1 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -86,7 +100,7 @@ Code (Sep 2025)
 
 <br />
 
-# Check Out My Projects
+## Check Out My Projects
 ### Cybersecurity
 [Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br />
 [Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)<br />

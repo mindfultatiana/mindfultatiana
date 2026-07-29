@@ -1,24 +1,27 @@
-# AI-Powered Marketing | Renewable Energy
+# Cybersecurity Compliance & Technical Tooling | Renewable Energy
 
-Hi, I'm Tatiana Mathis. I build AI tools that solve real marketing and
-business development problems. I also understand the security and
-governance side well enough to ship in regulated industries.
+Hi, I'm Tatiana Mathis. Security and compliance background, working across
+the commercial side of utility-scale solar, wind, and storage development.
 
-MBA in Marketing. Former co-founder and CEO of Comm Geeks LLC, a web
-development and e-commerce agency. Now at NSAI Energy, working where AI,
-marketing, and compliance meet. Utility-scale solar, wind, and storage.
-Prospect research systems, outreach automation, content pipelines, and
-internal tooling — mostly Python.
+**Trained:** DoE CESER/INL CyberStrike (solar and wind OT/ICS). DoD CMTC
+Zero Trust and CUI. Studying AI governance and control mapping against
+NIST SP 800-53, ISO 27001, NERC CIP, and C2M2.
 
-**Why the security background matters:** AI touches customer data and
-critical infrastructure. I know where the landmines are. DoE CESER/INL
-CyberStrike trained. DoD CMTC Zero Trust and CUI trained. Working in AI
-governance mapped to NIST SP 800-53, ISO 27001, and NERC CIP.
+**In the business:** I write and coordinate RFO narrative submissions.
+I track and report our interconnection queue positions. I run business
+development research and outreach. I've done diligence on PV manufacturing,
+component sourcing, and landed O&M costs — enough to evaluate vendors and
+know who to bring in for the rest.
 
-**Building with:** Python · Docker · Snowflake · Anthropic, OpenAI, Huggingface, and Google APIs.
-Two Google/Kaggle AI Intensive capstones.
+**I build my own tools:** Node.js document generation for multi-section
+RFO submissions. Python CLI utilities with tests and type hints. A Joplin
+editor plugin (CodeMirror 6, webpack). I write with AI assistance and I
+can read, debug, and extend everything I ship.
 
-**Currently:** AI tooling for renewable energy business development.
+**Background:** MBA in Marketing. Former co-founder and CEO of Comm Geeks
+LLC, a web development and e-commerce agency.
+
+Python · JavaScript/Node · Docker · Snowflake · Linux
 
 ## Training
 ### Featured Training:

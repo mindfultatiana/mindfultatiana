@@ -1,27 +1,31 @@
-# Cybersecurity Compliance & Technical Tooling | Renewable Energy
+# Product Manager | AI-Enabled Products
 
-Hi, I'm Tatiana Mathis. Security and compliance background, working across
-the commercial side of utility-scale solar, wind, and storage development.
+Hi, I'm Tatiana Mathis. I build AI applications and manage products that
+ship — 12+ years from concept to revenue, including seven owning the P&L
+at my own agency.
 
-**Trained:** DoE CESER/INL CyberStrike (solar and wind OT/ICS). DoD CMTC
-Zero Trust and CUI. Studying AI governance and control mapping against
-NIST SP 800-53, ISO 27001, NERC CIP, and C2M2.
+**Building:** RAG systems, agentic workflows, and document-processing
+applications. ManualMakerAI converts mixed-format source files into
+structured teaching manuals. A Python static-analysis CLI detecting 40+
+suspicious patterns. Node.js document generation for multi-author RFO
+submissions. Two Google/Kaggle AI Intensive capstones; Snowflake Gen AI
+and Data Engineering bootcamps.
 
-**In the business:** I write and coordinate RFO narrative submissions.
-I track and report our interconnection queue positions. I run business
-development research and outreach. I've done diligence on PV manufacturing,
-component sourcing, and landed O&M costs — enough to evaluate vendors and
-know who to bring in for the rest.
+**Shipping products:** MBA in Marketing. Co-founder and CEO of Comm Geeks
+LLC, an e-commerce web development agency (2017–2023) — scope, budget,
+delivery, and results across a client portfolio. Marketing strategy behind
+$102M+ in government renewable energy contracts. North American go-to-market
+for an indie PC title: 500K copies year one, 1M+ lifetime.
 
-**I build my own tools:** Node.js document generation for multi-section
-RFO submissions. Python CLI utilities with tests and type hints. A Joplin
-editor plugin (CodeMirror 6, webpack). I write with AI assistance and I
-can read, debug, and extend everything I ship.
+**Why my AI work has guardrails on it:** DoE CESER/INL CyberStrike trained
+(solar and wind OT/ICS). DoD CMTC Zero Trust and CUI. Working knowledge of
+NIST SP 800-53, ISO 27001, and GDPR. I know where AI shouldn't go, which is
+most of why I trust it where it should.
 
-**Background:** MBA in Marketing. Former co-founder and CEO of Comm Geeks
-LLC, a web development and e-commerce agency.
+**Currently:** commercial development and internal AI tooling for
+utility-scale solar, wind, and storage at NSAI Energy.
 
-Python · JavaScript/Node · Docker · Snowflake · Linux
+Python · JavaScript/Node · Docker · Snowflake · LLM APIs
 
 ## Training
 ### Featured Training:

@@ -14,8 +14,8 @@ DoE CESER / INL trained (CyberStrike STORMCLOUD, solar and wind), DoD CMTC Zero 
 * BUILD 2025-2026: Gen AI Bootcamp Badge from Snowflake (Nov 2025)
 * Google 5-Day Gen AI Intensive Course and Kaggle Capstone Badge (Apr 2025)
 * BUILD 2024: GenAI Bootcamp Badge from Snowflake (Nov 2024)
-* CyberStrike STORMCLOUD Hands-on Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
-* CyberStrike STORMCLOUD Hands-on Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* CyberStrike STORMCLOUD Hands-on IoT Solar Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
+* CyberStrike STORMCLOUD Hands-on IoT Wind Cybersecurity Training DoE CESER and INL Hosted (Sep 2024)
 * 6-week Zero Trust Cybersecurity and CUI Training by DoD CADENCE and CMTC (Jun 2024)
 * Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)
 

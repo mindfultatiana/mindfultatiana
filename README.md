@@ -20,6 +20,7 @@ DoE CESER / INL trained (CyberStrike STORMCLOUD, solar and wind), DoD CMTC Zero 
 * Snowflake BUILD 2023 GenAI and LLM Bootcamp Badge (Dec 2023)
 
 ### Classes:
+* Microsoft: Introduction to Datacenter Learning Path (Jul 2026)
 * RSAC 365: SANS Follow Up Session: The Five Most Dangerous New Attack Techniques (Jun 2026)
 * RSAC 365 Powering Autonomous Cybersecurity with AI Agents (May 2026)
 * TechStrong Securing Vibe Coding: Addressing the Security Challenges of AI-Generated

@@ -48,7 +48,6 @@ Code (Sep 2025)
 * RSAC 365 A Proactive Behavioral Approach to Cyber Readiness: Insights from a Clinical Psychologist and a Social Scientist (Jan 2025)
 * RSAC 365 Securing Cyber-Physical Systems (Dec 2024)
 * RSAC 365 In-depth Analysis of a Phishing Email (Oct 2024)
-* DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)
 * DAU (Defense Aquisition University) Basic Cyber Hygiene Walk Through of the FAR 52-204.21 and the Proposed CMMC Level 1 (Jul 2024)
 * Techstrong A Realist Approach to Least Privilege in the Cloud (Jun 2024)
 
@@ -139,3 +138,4 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 * RSAC 365 Building Resilient Systems (Mar 2025)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)
 * DAU Cybersecurity for Small Business (Jul 2024)
+* DAU Zero Trust: Transforming Cybersecurity - Next Generation Mission-Based Security for Systems Engineers (Jul 2024)

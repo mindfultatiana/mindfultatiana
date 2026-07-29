@@ -1,22 +1,21 @@
 # AI-Powered Marketing | Renewable Energy
 
 Hi, I'm Tatiana Mathis. I build AI tools that solve real marketing and
-business development problems — and I understand the security and
-governance side well enough to ship them in regulated industries.
+business development problems. I also understand the security and
+governance side well enough to ship in regulated industries.
 
-MBA in Marketing. Former co-founder and CEO of Comm Geeks LLC (web
-development and e-commerce). At NSAI Energy I work at the intersection
-of AI, marketing, and compliance for utility-scale solar, wind, and
-storage projects: prospect research and outreach systems, content
-pipelines, and internal tooling in Python.
+MBA in Marketing. Former co-founder and CEO of Comm Geeks LLC, a web
+development and e-commerce agency. Now at NSAI Energy, working where AI,
+marketing, and compliance meet. Utility-scale solar, wind, and storage.
+Prospect research systems, outreach automation, content pipelines, and
+internal tooling — mostly Python.
 
-**Why the security background matters:** I hold DoE CESER/INL CyberStrike
-training and DoD CMTC Zero Trust/CUI certification, and I develop AI
-governance frameworks mapped to NIST SP 800-53, ISO 27001, and NERC CIP.
-When AI touches customer data or critical infrastructure, I know where
-the landmines are.
+**Why the security background matters:** AI touches customer data and
+critical infrastructure. I know where the landmines are. DoE CESER/INL
+CyberStrike trained. DoD CMTC Zero Trust and CUI trained. Working in AI
+governance mapped to NIST SP 800-53, ISO 27001, and NERC CIP.
 
-**Building with:** Python · Docker · Snowflake · Anthropic & Google APIs
+**Building with:** Python · Docker · Snowflake · Anthropic, OpenAI, Huggingface, and Google APIs.
 Two Google/Kaggle AI Intensive capstones.
 
 **Currently:** AI tooling for renewable energy business development.

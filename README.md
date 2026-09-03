@@ -12,7 +12,7 @@ submissions. Two Google/Kaggle AI Intensive capstones; Snowflake Gen AI
 and Data Engineering bootcamps.
 
 **Shipping products:** MBA in Marketing. Co-founder and CEO of Comm Geeks
-LLC, an e-commerce web development agency (2017–2023) — scope, budget,
+LLC, an e-commerce web development agency (2017–2023) where I managed: scope, budget,
 delivery, and results across a client portfolio. Marketing strategy behind
 $102M+ in government renewable energy contracts. North American go-to-market
 for an indie PC title: 500K copies year one, 1M+ lifetime.

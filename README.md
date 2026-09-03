@@ -1,31 +1,35 @@
 # Product Manager | AI-Enabled Products
 
-Hi, I'm Tatiana Mathis. I build AI applications and manage products that
-ship. I have 12+ years from concept to revenue, including seven owning the P&L
-at my own agency.
+Hi, I'm Tatiana Mathis. I build AI applications and manage products from concept to launch. I bring 12+ years of experience turning ideas into products, revenue, and measurable results, including seven years running my own agency.
 
-**Building:** RAG systems, agentic workflows, and document-processing
-applications. ManualMakerAI converts mixed-format source files into
-structured teaching manuals. A Python static-analysis CLI detecting 40+
-suspicious patterns. Node.js document generation for multi-author RFO
-submissions. Two Google/Kaggle AI Intensive capstones; Snowflake Gen AI
-and Data Engineering bootcamps.
+## What I'm Building
 
-**Shipping products:** MBA in Marketing. Co-founder and CEO of Comm Geeks
-LLC, an e-commerce web development agency (2017–2023) where I managed: scope, budget,
-delivery, and results across a client portfolio. Marketing strategy behind
-$102M+ in government renewable energy contracts. North American go-to-market
-for an indie PC title: 500K copies year one, 1M+ lifetime.
+I'm currently building RAG systems, agentic workflows, and document-processing applications. Some of my recent work includes:
 
-**Why my AI work has guardrails on it:** DoE CESER/INL CyberStrike trained
-(solar and wind OT/ICS). DoD CMTC Zero Trust and CUI. Working knowledge of
-NIST SP 800-53, ISO 27001, and GDPR. I know where AI shouldn't go, which is
-most of why I trust it where it should.
+- **ManualMakerAI:** An application that turns mixed-format source files into structured teaching manuals.
+- **Python static-analysis CLI:** A tool that detects 40+ suspicious code patterns.
+- **Node.js document generation:** Automated document generation for multi-author RFO submissions.
+- **AI projects:** Two Google/Kaggle AI Intensive capstones, along with Snowflake Gen AI and Data Engineering bootcamps.
 
-**Currently:** commercial development and internal AI tooling for
-utility-scale solar, wind, and storage at NSAI Energy.
+## Product and Business Experience
 
-Python · JavaScript/Node · Docker · Snowflake · LLM APIs
+I have an MBA in Marketing and spent seven years as Co-founder and CEO of Comm Geeks LLC, an e-commerce web development agency. I managed projects from scope and budget through delivery and results.
+
+My marketing and business work has included strategy supporting **$102M+ in government renewable energy contracts** and the North American go-to-market strategy for an indie PC game that sold **500K copies in its first year and 1M+ lifetime**.
+
+## Building AI with Guardrails
+
+I work in cybersecurity alongside my AI and product work, particularly in environments where security matters.
+
+I've completed DoE CESER/INL CyberStrike training focused on solar and wind OT/ICS, as well as DoD CMTC Zero Trust and CUI training. I also work with frameworks including NIST SP 800-53, ISO 27001, and GDPR.
+
+I think good AI products need more than impressive demos. They need to know what they should do, what they shouldn't do, and where a human needs to stay in the loop.
+
+## What I'm Doing Now
+
+I'm working on commercial development and internal AI tooling for utility-scale solar, wind, and energy storage at NSAI Energy.
+
+**Tech:** Python · JavaScript/Node.js · Docker · Snowflake · LLM APIs
 
 ## Training
 ### Featured Training:

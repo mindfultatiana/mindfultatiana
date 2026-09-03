@@ -1,7 +1,7 @@
 # Product Manager | AI-Enabled Products
 
 Hi, I'm Tatiana Mathis. I build AI applications and manage products that
-ship — 12+ years from concept to revenue, including seven owning the P&L
+ship. I have 12+ years from concept to revenue, including seven owning the P&L
 at my own agency.
 
 **Building:** RAG systems, agentic workflows, and document-processing

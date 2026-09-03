@@ -144,7 +144,7 @@ Created an in-depth cybersecurity plan for NSAI Energy, a renewable energy devel
 
 ###
 
-# Additional Training
+## Additional Training
 * RSAC 365 Breaking the Reactive Cycle: Cybersecurity Through Control Theory and AI (May 2025)
 * RSAC 365 Building Resilient Systems (Mar 2025)
 * HDIAC (Homeland Defense and Security Information Analysis Center) Security Implications for the United States From Iranian and Hezbollah Activities in Latin America and the Caribbean (Dec 2024)

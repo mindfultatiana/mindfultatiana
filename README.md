@@ -26,7 +26,7 @@ I've trained in cybersecurity through DoE CESER/INL CyberStrike (solar and wind 
 
 ## Now
 
-Business development and internal AI tooling at NSAI Energy, a renewable energy developer working in utility-scale solar, wind, and storage.
+Business development and internal AI tooling for clients like NSAI Energy, a renewable energy developer working in utility-scale solar, wind, and storage.
 
 **Tech:** Python (primary) · JavaScript/Node.js · Docker · Snowflake · LLM APIs · Git
 

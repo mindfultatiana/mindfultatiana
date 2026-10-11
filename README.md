@@ -90,9 +90,9 @@ Code (Sep 2025)
   <img width="12" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" height="40" alt="pandas logo"  />
   <img width="12" /></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo" />
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/cace75fb-08b6-4ccf-b8fd-51bbe6015b44" height="40" alt="langchain logo" />
   <img width="12" /></a>
-  <a href="https://docs.ollama.com/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/ollama.png" height="40" alt="ollama logo" />
+  <a href="https://docs.ollama.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/708ed159-86c7-4432-900d-a4b697f41d29" height="40" alt="ollama logo" />
     <img width="12" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" /></a>

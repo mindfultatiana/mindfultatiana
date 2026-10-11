@@ -1,29 +1,34 @@
-# Marketing Strategist · Python Builder · Responsible AI
+# Marketing Strategist · Founder · AI & Python Builder
 
-Hi, I'm Tatiana Mathis. I'm a marketer and business strategist who builds practical AI and Python tools. Most are focused applications that solve a specific problem for the business I work in.
+Hi, I'm Tatiana Mathis. I have an MBA in MarketingI build practical AI tools with the instincts of someone who ran a business. I'm a marketer and former agency CEO who knows what things cost, what customers actually need, and how to grow a product without burning money.
 
-## What I Build
+## How I Build
 
-I work primarily in Python and use JavaScript/Node.js when a project calls for it. My projects are solo builds: tightly scoped, built on a small budget, and designed to need little upkeep.
+I build lean on purpose. My tools start small, solve a real problem, and are architected so they can scale to a team when the need is proven. I'd rather write a better rate limiter than pay $50 a month for a service I don't need yet. I ask whether the problem justifies it first.
+
+I work primarily in Python and use JavaScript/Node.js where a project calls for it.
 
 - **ManualMakerAI**: Turns mixed-format source files (PDF, docx, markdown, txt) into structured teaching manuals.
-- **Malware Scanner**: A Python CLI that flags 40+ suspicious patterns in files and scripts.
+- **Malware Scanner**: A Python CLI that flags 40+ suspicious patterns across files and scripts.
 - **RFO document generator**: A Node.js tool that assembles multi-author submissions for renewable energy RFOs.
-- **Learning projects**: Two Google/Kaggle AI Intensive capstones (Gen AI and AI Agents), plus Snowflake Gen AI and Data Engineering bootcamps, covering RAG, agents, embeddings, and evaluation.
+- **Cybersecurity ROI Dashboard**: Quantifies the return on zero-trust security investments so executives can decide with numbers.
+- **AI training**: Two Google/Kaggle AI Intensive capstones (Gen AI and AI Agents), plus Snowflake Gen AI and Data Engineering bootcamps covering RAG, agents, embeddings, and evaluation.
 
-## Background
+## Business Background
 
-I have an MBA in Marketing and spent seven years as co-founder and CEO of Comm Geeks LLC, an e-commerce web development agency, where I managed client website projects from scope and budget through launch. Before that, I developed marketing strategy supporting $102M+ in government renewable energy contracts. I also led the North American go-to-market for an indie PC game that sold 500K copies in its first year.
+I co-founded and ran Comm Geeks LLC, an e-commerce web development agency, for seven years. I owned the whole business: P&L, contracts, hiring and managing engineers, and client website launches from scope through delivery. I also ran the growth side myself, including SEO, Google Ads, A/B testing, and competitor research.
+
+Before that, I developed marketing strategy supporting $102M+ in government renewable energy contracts and led the North American go-to-market for an indie PC game that sold 500K copies in its first year and 1M+ lifetime. 
 
 ## Security-Minded by Default
 
-I've trained in cybersecurity through DoE CESER/INL CyberStrike (solar and wind OT/ICS) and DoD CMTC Zero Trust and CUI programs, and I study frameworks like NIST SP 800-53, ISO 27001, and GDPR. That shapes how I build. I think about what a tool should do, what it shouldn't, and where a human needs to stay in the loop.
+I've trained in cybersecurity through DoE CESER/INL CyberStrike (solar and wind OT/ICS) and DoD CMTC Zero Trust and CUI programs, and I apply frameworks like NIST SP 800-53, ISO 27001, and GDPR to how I build. Good tools know what they should do, what they shouldn't, and where a human stays in the loop.
 
 ## Now
 
-Business development and internal tooling at NSAI Energy, a renewable energy developer working in utility-scale solar, wind, and storage.
+Business development and internal AI tooling at NSAI Energy, a renewable energy developer working in utility-scale solar, wind, and storage.
 
-**Tech:** Python (primary) · JavaScript/Node.js (as needed) · Docker · Snowflake · LLM APIs · Git
+**Tech:** Python (primary) · JavaScript/Node.js · Docker · Snowflake · LLM APIs · Git
 
 ## Training
 ### Featured Training:

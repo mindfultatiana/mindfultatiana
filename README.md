@@ -1,35 +1,29 @@
-# Product Manager | AI-Enabled Products
+# Marketing Strategist · Python Builder · Responsible AI
 
-Hi, I'm Tatiana Mathis. I build AI applications and manage products from concept to launch. I bring 12+ years of experience turning ideas into products, revenue, and measurable results, including seven years running my own agency.
+Hi, I'm Tatiana Mathis. I'm a marketer and business strategist who builds practical AI and Python tools. Most are focused applications that solve a specific problem for the business I work in.
 
-## What I'm Building
+## What I Build
 
-I'm currently building RAG systems, agentic workflows, and document-processing applications. Some of my recent work includes:
+I work primarily in Python and use JavaScript/Node.js when a project calls for it. My projects are solo builds: tightly scoped, built on a small budget, and designed to need little upkeep.
 
-- **ManualMakerAI:** An application that turns mixed-format source files into structured teaching manuals.
-- **Python static-analysis CLI:** A tool that detects 40+ suspicious code patterns.
-- **Node.js document generation:** Automated document generation for multi-author RFO submissions.
-- **AI projects:** Two Google/Kaggle AI Intensive capstones, along with Snowflake Gen AI and Data Engineering bootcamps.
+- **ManualMakerAI**: Turns mixed-format source files (PDF, docx, markdown, txt) into structured teaching manuals.
+- **Malware Scanner**: A Python CLI that flags 40+ suspicious patterns in files and scripts.
+- **RFO document generator**: A Node.js tool that assembles multi-author submissions for renewable energy RFOs.
+- **Learning projects**: Two Google/Kaggle AI Intensive capstones (Gen AI and AI Agents), plus Snowflake Gen AI and Data Engineering bootcamps, covering RAG, agents, embeddings, and evaluation.
 
-## Product and Business Experience
+## Background
 
-I have an MBA in Marketing and spent seven years as Co-founder and CEO of Comm Geeks LLC, an e-commerce web development agency. I managed projects from scope and budget through delivery and results.
+I have an MBA in Marketing and spent seven years as co-founder and CEO of Comm Geeks LLC, an e-commerce web development agency, where I managed client website projects from scope and budget through launch. Before that, I developed marketing strategy supporting $102M+ in government renewable energy contracts. I also led the North American go-to-market for an indie PC game that sold 500K copies in its first year.
 
-My marketing and business work has included strategy supporting **$102M+ in government renewable energy contracts** and the North American go-to-market strategy for an indie PC game that sold **500K copies in its first year and 1M+ lifetime**.
+## Security-Minded by Default
 
-## Building AI with Guardrails
+I've trained in cybersecurity through DoE CESER/INL CyberStrike (solar and wind OT/ICS) and DoD CMTC Zero Trust and CUI programs, and I study frameworks like NIST SP 800-53, ISO 27001, and GDPR. That shapes how I build. I think about what a tool should do, what it shouldn't, and where a human needs to stay in the loop.
 
-I work in cybersecurity alongside my AI and product work, particularly in environments where security matters.
+## Now
 
-I've completed DoE CESER/INL CyberStrike training focused on solar and wind OT/ICS, as well as DoD CMTC Zero Trust and CUI training. I also work with frameworks including NIST SP 800-53, ISO 27001, and GDPR.
+Business development and internal tooling at NSAI Energy, a renewable energy developer working in utility-scale solar, wind, and storage.
 
-I think good AI products need more than impressive demos. They need to know what they should do, what they shouldn't do, and where a human needs to stay in the loop.
-
-## What I'm Doing Now
-
-I'm working on commercial development and internal AI tooling for utility-scale solar, wind, and energy storage at NSAI Energy.
-
-**Tech:** Python · JavaScript/Node.js · Docker · Snowflake · LLM APIs
+**Tech:** Python (primary) · JavaScript/Node.js (as needed) · Docker · Snowflake · LLM APIs · Git
 
 ## Training
 ### Featured Training:
@@ -111,7 +105,7 @@ Code (Sep 2025)
 
 ## Check Out My Projects
 ### Cybersecurity
-[Malware Scanner v2.2 for zip, rar, .exe Application Files, .cmd, .bat, and Other Scripts](https://github.com/mindfultatiana/malwarescanner) (Oct 2025)<br />
+[Malware Scanner V2.5 for zip, rar, exe, iso, cmd, bat, and Other Scripts and File Types](https://github.com/mindfultatiana/malwarescanner) (Oct 2026)<br />
 [Dashboard Creator that Outputs the ROI of Cybersecurity Efforts](https://github.com/mindfultatiana/CybersecurityROI) (Jul 2025)<br />
 #### NSAI Energy Cybersecurity Plan (Feb 2024)
 *Proprietary client work; details available under NDA.*<br />
